@@ -35,6 +35,5 @@ Small streak Nbr : Number of small streak
 
 Bump : Intensity of the bump from the wood base texture
 
-
 ![hardwoodfloor](https://cloud.githubusercontent.com/assets/10100090/7428947/266a1058-eff9-11e4-8a3b-778083bba71f.jpg)
-![nodebois](https://cloud.githubusercontent.com/assets/10100090/6887436/f3cb5272-d65f-11e4-90bb-2b96cb12709c.jpg)
+![nodebois](https://cloud.githubusercontent.com/assets/10100090/7428931/05a8a924-eff9-11e4-8541-e5f9bd7ba5df.jpg)
