@@ -21,6 +21,8 @@ Distord 2 : Will disturb the blending of the coloration for each ring (use on ti
 
 Grain : Add noise in the blending colors off the rings (use on large level > 1000)
 
+Rotation : Rotate the wood texture on the X, Y or Z axis
+
 Wood base intensity : Intensity of the colors 1 and 2. 0 = color 1
 
 Slide colors : Change the intensity of the second color for the first or the third
@@ -33,7 +35,15 @@ Small streak : Intensity of little default in the wood base texture
 
 Small streak Nbr : Number of small streak
 
-Bump : Intensity of the bump from the wood base texture
+Bump wood : Intensity of the bump from the wood base texture
+
+Bump Scratches : Intensity of the bump for the scratches
+
+Scale Scratches : Density of the scratches
+
+Pores : Intensity of the color of the pores on the wood texture
+
+Pores scales : Density of the pores
 
 ![hardwoodfloor](https://cloud.githubusercontent.com/assets/10100090/7428947/266a1058-eff9-11e4-8a3b-778083bba71f.jpg)
 ![nodebois](https://cloud.githubusercontent.com/assets/10100090/7428931/05a8a924-eff9-11e4-8541-e5f9bd7ba5df.jpg)
